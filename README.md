@@ -2,8 +2,8 @@
 In this lab, you make a wordpress blog.
 
 ## Example Wordpress Blogs
--[Example Software Engineer Blog](https://shannoncrabill.com/blog/)
--[General Blogs](https://colorlib.com/wp/blogs-using-wordpress/)
+- [Example Software Engineer Blog](https://shannoncrabill.com/blog/)
+- [General Blogs](https://colorlib.com/wp/blogs-using-wordpress/)
 
 ## Directions
 Follow the instructions on wordpress and [start your blog](https://wordpress.com/create-blog/)
@@ -16,7 +16,7 @@ You can complete this outside of lab, if you so choose.
 
 ## Class Blogs & Github Handles
 Add your blog & github handle to the bottom of the list. 
-To do so, click on the little pencil in the top right corner of the readme you are currently reading in the browser, make edits, a commit message, and commit. 
+To do so, click on the little pencil in the top right corner of the readme you are currently reading in the browser, make edits, a commit message, and commit directly to the master branch. (Once again, this is a bad habit, but okay for this first set of labs only).  
 *May require admins to give you access - shall not know until lab runs*
 ```markdown
 FirstName LastName | [GithubHandle](http://example.com/) | [Blog Web Link](http://example.com/)
