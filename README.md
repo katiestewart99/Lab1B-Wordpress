@@ -26,6 +26,7 @@ Katarina Hoeger | [khoeger](https://github.com/khoeger) | [Katarina Hoeger's Blo
 ## Useful Resources for the Future
 - [How To Include Code](https://www.wpbeginner.com/wp-tutorials/how-to-easily-display-code-on-your-wordpress-site/)
 - [How To Include Pictures]( https://wordpress.org/support/article/inserting-images-into-posts-and-pages/)
+- [How To Embed Video](https://www.wpbeginner.com/beginners-guide/how-to-easily-embed-videos-in-wordpress-blog-posts/)
 
 ### Class Generated Resources
 Did you find any useful wordpress resources?
