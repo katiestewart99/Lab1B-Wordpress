@@ -23,6 +23,7 @@ FirstName LastName | [GithubHandle](http://example.com/) | [Blog Web Link](http:
 ```
 - Katarina Hoeger | [khoeger](https://github.com/khoeger) | [Katarina Hoeger's Blog](https://www.katarinahoeger.com/blog/)
 - Trent Otash | [trentschool](https://github.com/trentschool) | [Trent Otash's Blog](https://trentotash.wordpress.com/)
+- Katie Stewart | [katiestewart99] (https://github.com/katiestewart99) | [Katie Stewart's Blog] (https://katiestewartcoding.wordpress.com)
 
 ## Useful Resources for the Future
 - [How To Include Code](https://www.wpbeginner.com/wp-tutorials/how-to-easily-display-code-on-your-wordpress-site/)
